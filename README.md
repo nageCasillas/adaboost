@@ -31,7 +31,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/nageCasillas/adaboost.git
-cd adaboost-project
+cd adaboost
 ```
 
 Install the required packages:
